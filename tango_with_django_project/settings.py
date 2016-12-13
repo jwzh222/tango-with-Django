@@ -17,9 +17,6 @@ TEMPLATE_PATH = os.path.join(PROJECT_PATH, 'templates')
 STATIC_PATH = os.path.join(PROJECT_PATH, 'static')
 
 # Printing paths for sanity's sake
-print "Project root: ", PROJECT_PATH
-print "Templates: ", TEMPLATE_PATH
-print "Static: ", STATIC_PATH
 
 
 TEMPLATE_DIRS = (
